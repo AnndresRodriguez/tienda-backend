@@ -16,8 +16,8 @@
     "@types/jsonwebtoken": "^8.3.4",
     "@types/mongoose": "^5.5.19",
     "@types/morgan": "^1.7.37",
-    "concurrently": "^5.0.0",
-    "nodemon": "^1.19.3",
+    "concurrently": "^5.2.0",
+    "nodemon": "^2.0.4",
     "typescript": "^3.6.3"
   },
   "dependencies": {
